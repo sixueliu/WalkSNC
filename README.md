@@ -18,8 +18,11 @@ The noise, seed, maxtime, maxflips, solution, running time and total steps are r
 The solution format is like:
 
 v 1 -2 -3 4 5 6 -7 8 -9 10
+
 v -11 12 13 -14 -15 16 -17 18 -19 -20
+
 v -21 -22 23 24 -25 26 27 -28 -29 -30
+
 ...
 
 
