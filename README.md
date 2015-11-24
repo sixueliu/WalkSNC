@@ -1,7 +1,7 @@
 # WalkSNC
 An efficient SAT solver based on WalkSAT/SKC.
 
-Run makefile to get the executable binary "wsat".
+Run make to get the executable binary "wsat".
 
 Please use the following format:
 
